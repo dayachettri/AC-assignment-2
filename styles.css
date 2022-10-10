@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  display: inline-block;
+}
+
+header {
+  padding: 12px 0;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  background-color: #ba042d;
+  color: white;
+}
+
+main {
+  margin-top: 48px;
+  text-align: center;
+}
+
+#main-content-list img {
+  width: 260px;
+  border-radius: 50%;
+}
+
+#main-content-list .btn-main {
+  font-size: 28px;
+  font-weight: bold;
+  border: 2px solid #c4a287;
+  padding: 10px 20px;
+  display: inline-block;
+  margin: 30px 0 50px 0;
+  color: #50596c;
+}
+
+#main-content-list .btn-watch {
+  font-size: 18px;
+  font-weight: 400;
+  border: 1px solid #eb4b5b;
+  padding: 8px 42px;
+  color: white;
+  background-color: #eb4b5b;
+}
+
+#main-content-list .btn-add {
+  margin-top: 20px;
+  padding: 8px 63px;
+  border: 1px solid #eb4b5b;
+  color: darkslategrey;
+}
+
+footer {
+  padding: 30px 0;
+  background-color: #ba042d;
+  margin-top: 40px;
+}
+
+#footer-btn-list {
+  display: flex;
+  justify-content: center;
+  gap: 64px;
+}
+
+.btn-footer {
+  border-bottom: 1px dashed white;
+  color: white;
+}
