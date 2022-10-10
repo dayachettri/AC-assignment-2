@@ -1,2 +1,2 @@
 # AC-assignment-2
-![image](https://user-images.githubusercontent.com/96167561/194892146-9b28f06d-a204-446c-85a1-a9893aee5dc2.png)
+![image](https://user-images.githubusercontent.com/96167561/194920505-b756886d-e831-4c51-9ff8-fbed506608d6.png)
